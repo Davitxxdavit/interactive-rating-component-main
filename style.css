@@ -137,3 +137,14 @@ button:hover{
     color: rgba(95,102,112,255);
     text-align: center;
 }
+
+.attribution{
+    position: absolute;
+    top: 90vh;
+    width: 100%;
+    color: #fff;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
